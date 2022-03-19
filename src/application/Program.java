@@ -41,7 +41,7 @@ public class Program {
 			while (loop) {
 				System.out.println("********** Bem-vindo(a) ao serviço de empréstimos do TQIBank ********** "
 						+ sdf2.format(dataSistema));
-				System.out.println("---------- Desenvolvedor: Eliezer Moraes Silva ----------");
+				System.out.println("---------- Desenvolvedor: Jairo Nascimento ----------");
 				System.out.println();
 				System.out.print(
 						"Já é cliente TQI?\nDigite 's' para acessar a ÁREA DO CLIENTE ou 'n' para CADASTRAR-SE: ");
